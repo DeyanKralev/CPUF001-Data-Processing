@@ -1,0 +1,13 @@
+==================================================
+           DATA PROCESSING RESULTS
+==================================================
+
+Number of values processed : 55
+Sum of all values          : 1259.50
+Average value              : 22.90
+Minimum value              : 14.10
+Maximum value              : 32.20
+
+==================================================
+Processing completed successfully.
+==================================================
